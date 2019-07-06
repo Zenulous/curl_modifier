@@ -1,0 +1,4 @@
+.idea
+curl_modifier.egg-info/*
+__pycache__
+dist/

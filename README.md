@@ -42,5 +42,5 @@ Each of these lines will replace the specified substring and these modified requ
 
 # Installation
 
-`pip install curl_modifier`
+`pip install curl-modifier`
 
